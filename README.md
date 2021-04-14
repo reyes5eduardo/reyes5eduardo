@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @reyes5eduardo
+- 👋 Hi, I’m Eduardo
 - 👀 I’m interested in F1, LEGO's, Star Wars, Marvel movies and Tech. 
 - 🌱 I’m currently learning Javascript. 
 - 💞️ I’m looking to collaborate on web development opportunities. 
