@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @reyes5eduardo
-- 👀 I’m interested in F1, LEGO's, Star Wars, and Marvel movies. 
+- 👀 I’m interested in F1, LEGO's, Star Wars, Marvel movies and Tech. 
 - 🌱 I’m currently learning Javascript. 
 - 💞️ I’m looking to collaborate on web development opportunities. 
 - 📫 How to reach me reyes.eduardo5@yahoo.com
